@@ -7,3 +7,5 @@ A list of missing packages in OCaml.
 - InfluxDB.
 - QRCode native library.
 - OTP.
+- libnotify binding.
+- QIF
